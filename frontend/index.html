@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant Recommendation Service</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>Restaurant Recommendation Service</h1>
+
+<div class="card">
+
+    <label>Cuisine</label>
+    <select id="style">
+        <option value="">Select Cuisine</option>
+        <option value="Italian">Italian</option>
+        <option value="French">French</option>
+        <option value="Korean">Korean</option>
+        <option value="Mexican">Mexican</option>
+        <option value="American">American</option>
+    </select>
+
+    <label>
+        <input type="checkbox" id="vegetarian">
+        Vegetarian
+    </label>
+
+    <label>
+        <input type="checkbox" id="delivery">
+        Delivery Available
+    </label>
+
+    <button onclick="findRestaurant()">
+        Find Restaurant
+    </button>
+
+</div>
+
+<div id="result"></div>
+
+</div>
+
+<script src="app.js"></script>
+
+</body>
+</html>
