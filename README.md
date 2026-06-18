@@ -1,3 +1,7 @@
+<img width="1708" height="343" alt="Screenshot 2026-06-17 230418" src="https://github.com/user-attachments/assets/1b7d8de7-5633-4558-ab04-3b13eadd3dfe" />
+<img width="1685" height="656" alt="Screenshot 2026-06-17 230152" src="https://github.com/user-attachments/assets/ae369b91-9cb4-40bb-9c4f-e791ff027b23" />
+<img width="1708" height="343" alt="Screenshot 2026-06-17 230418" src="https://github.com/user-attachments/assets/ceec4167-1bbd-4d1d-b9b2-9c710446d5b9" />
+<img width="1685" height="656" alt="Screenshot 2026-06-17 230152" src="https://github.com/user-attachments/assets/74db3468-f251-4d00-84ff-d714315d7f6c" />
 # Restaurant Recommendation Service
 
 This project was built as part of the Varonis DevOps take-home assignment.
