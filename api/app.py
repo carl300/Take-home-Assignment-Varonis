@@ -6,9 +6,9 @@ from zoneinfo import ZoneInfo
 from typing import Any, Dict, List, Optional
 from uuid import uuid4
 
-import boto3
-from boto3.dynamodb.conditions import Attr
-from botocore.exceptions import ClientError, BotoCoreError
+
+
+
 
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
